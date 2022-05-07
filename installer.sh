@@ -7,7 +7,7 @@
 #!/bin/sh
 echo
 
-opkg install --force-overwrite  https://github.com/tar1971/feeds-finder/blob/main/feeds-finder_V1.6_py2_all.ipk?raw=true
+opkg install --force-overwrite  https://github.com/tarekzoka/dreamsatpanel/blob/main/enigma2-plugin-extensions-dreamsatpanel_1.3_all.ipk?raw=true
 echo ". >>>>         RESTARING     <<<<"
 echo "**********************************************************************************"
 wait
